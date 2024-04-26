@@ -1,0 +1,6 @@
+Label the Image we need to enter the app by down below command:
+
+1. run administrator: anaconda prompt 
+2. cd  then paste Directory name _______.
+3. pyrcc5 -o libs/resources.py resources.qrc
+4. python labelImg.py
